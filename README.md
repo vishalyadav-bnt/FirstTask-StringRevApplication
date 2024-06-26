@@ -4,9 +4,9 @@ This Java application reads a text file containing strings, reverses each word i
 
 ## Features
 ### Input File:
-Reads from string.txt located at D://FirstTask-StringRevApplication//StringRevApp//.
+Reads from string.txt located at D://FirstTask-StringRevApplication//StringRevApp//string.txt.
 ### Output File:
-Writes reversed strings to reversed_string.txt located at D://FirstTask-StringRevApplication//StringRevApp//.
+Writes reversed strings to reversed_string.txt located at D://FirstTask-StringRevApplication//StringRevApp//reversed_string.txt.
 ### Prerequisites
 Java Development Kit (JDK) installed
 Basic understanding of Java I/O operations
