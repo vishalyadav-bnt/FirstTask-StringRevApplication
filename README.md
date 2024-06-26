@@ -15,7 +15,7 @@ Clone the repository:
 
 ### bash
 ### Copy code
-git clone https://github.com/yourusername/your-repository.git
+git clone (https://github.com/vishalyadav-bnt/FirstTask-StringRevApplication.git)
 ### Compile the Java program:
 Navigate to the directory containing Main.java and compile it using:
 
