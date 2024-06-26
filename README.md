@@ -7,7 +7,7 @@ This Java application reads a text file containing strings, reverses each word i
 Reads from string.txt located at D://FirstTask-StringRevApplication//StringRevApp//.
 ### Output File:
 Writes reversed strings to reversed_string.txt located at D://FirstTask-StringRevApplication//StringRevApp//.
-Prerequisites
+### Prerequisites
 Java Development Kit (JDK) installed
 Basic understanding of Java I/O operations
 How to Use
@@ -22,30 +22,36 @@ Navigate to the directory containing Main.java and compile it using:
 ### bash
 Copy code
 javac Main.java
-Run the program:
+### Run the program:
 Execute the compiled Java program using:
 
-bash
+### bash
 Copy code
 java Main
-Check output:
+### Check output:
 After execution, check reversed_string.txt for the reversed strings.
 
-Notes
+### Notes
 Ensure the input file string.txt exists in the specified path before running the program.
 The program assumes words are separated by whitespace.
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Explanation:
-Project Description: Clearly states what the project does.
-Features: Lists the key functionalities of the application.
-Prerequisites: Lists what software or knowledge is needed to use the application.
-How to Use: Provides step-by-step instructions on how to clone, compile, and run the program.
-Notes: Additional considerations or assumptions made by the program.
-Contributing: Encourages others to contribute to the project.
-License: Specifies the project's license.
-Make sure to replace placeholders (yourusername, your-repository, paths, etc.) with actual details specific to your GitHub repository. This README will help users understand your project quickly and effectively
+### Explanation:
+Project Description:This Project Is Based on String Means here we fetch string and revrse this string.
+### Features: 
+Input File Handling: Reads input from string.txt.
+
+Word Reversal: Reverses each word within the input lines.
+
+Output File Generation: Writes the reversed strings to reversed_string.txt.
+
+### Prerequisites: 
+Java Development Kit (JDK) installed (version 8 or higher).
+
+Basic understanding of Java programming.
+
+Access to a Unix-based terminal or Windows Command Prompt.
