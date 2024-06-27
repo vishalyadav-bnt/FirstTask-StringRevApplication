@@ -14,19 +14,18 @@ How to Use
 Clone the repository:
 
 ### bash
-### Copy code
 git clone (https://github.com/vishalyadav-bnt/FirstTask-StringRevApplication.git)
 ### Compile the Java program:
 Navigate to the directory containing Main.java and compile it using:
 
 ### bash
-Copy code
+
 javac Main.java
 ### Run the program:
 Execute the compiled Java program using:
 
 ### bash
-Copy code
+
 java Main
 ### Check output:
 After execution, check reversed_string.txt for the reversed strings.
